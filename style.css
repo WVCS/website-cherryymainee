@@ -1,4 +1,4 @@
-@charset "utf-8";
+
 
 body{
 	background-color: papayawhip;
@@ -13,9 +13,8 @@ border: 15px medium #DED97C;
 	border-radius: 50%;
 }
 h1 {
-	color:burlywood
+	color:burlywood;
 	text-decoration: underline;
-	text-shadow:
 }
 
 
